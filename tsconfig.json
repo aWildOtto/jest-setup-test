@@ -1,0 +1,8 @@
+{
+    "transform": {
+        "^.+\\.(t|j)sx?$": "ts-jest"
+    },
+    "lib": [
+        "ES6"
+    ]
+}
